@@ -1,6 +1,7 @@
-- 🍝 Hi, I’m @Giulio-Cusenza
-- 😛 Interested in languages
-- 💻 Currently studying computational linguistics
+- 🍝 Hi, I’m @Giulio-Cusenza.
+- 😛 Interested in languages.
+- 👂  Italian, English, French, Russian, German.
+- 💻 Currently studying computational linguistics.
 
 <!---
 Giulio-Cusenza/Giulio-Cusenza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
